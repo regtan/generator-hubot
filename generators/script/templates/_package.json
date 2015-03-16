@@ -20,7 +20,7 @@
   },
 
   "peerDependencies": {
-    "hubot": "2.1.0"
+    "hubot": "~2.1.0"
   },
 
   "devDependencies": {
